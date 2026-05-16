@@ -12,7 +12,6 @@ const Navbar = () => {
           <a href="#certifications" className="text-white/90 hover:text-white font-medium text-sm transition">Certifications</a>
           <a href="#contact" className="text-white/90 hover:text-white font-medium text-sm transition">Contact</a>
         </div>
-        <a href="mailto:rushipatil1808@gmail.com" className="hidden md:inline-block bg-white text-coral font-semibold text-sm px-4 py-1.5 rounded-full hover:bg-offwhite transition">Hire Me</a>
       </div>
     </nav>
   );
