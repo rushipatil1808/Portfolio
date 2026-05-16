@@ -1,6 +1,6 @@
 # Rushikesh Patil - Portfolio
 
-**Live Demo:** [https://portfolio-chi-sepia-97.vercel.app](https://portfolio-chi-sepia-97.vercel.app)
+**Live Demo:**[ [https://portfolio-chi-sepia-97.vercel.app](https://portfolio-chi-sepia-97.vercel.app)](https://portfolio-rushipatil1808-8560-rushipatil1808.vercel.app/)
 
 A clean, modern, and minimal personal portfolio built with React, Vite, and Tailwind CSS. Designed to showcase projects, skills, and certifications for an AI/ML Engineer role.
 
