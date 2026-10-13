@@ -6,7 +6,6 @@ const Hero = () => {
       <div className="max-w-3xl relative z-10">
         <p className="text-white/80 font-bold tracking-widest text-sm uppercase mb-4 opacity-0 animate-fade-in-up delay-100">HELLO, I'M</p>
         <h1 className="text-5xl md:text-7xl font-extrabold text-white leading-tight mb-4 drop-shadow-lg opacity-0 animate-fade-in-up delay-100">Rushikesh Patil</h1>
-        <h2 className="text-xl md:text-2xl text-coral font-medium mb-6 drop-shadow-md opacity-0 animate-fade-in-up delay-200">AI/ML Engineer &amp; Python Developer</h2>
         <p className="text-white/80 text-sm mb-6 flex items-center justify-center gap-2 opacity-0 animate-fade-in-up delay-200">
           <span className="text-coral">📍</span> Vadodara, Gujarat, India
         </p>
