@@ -25,16 +25,16 @@ const About = () => {
 
           {/* Right Side: Summary Content */}
           <div className="md:w-7/12 w-full">
-            <h3 className="text-2xl font-bold text-coral mb-4">AI/ML Engineer & Python Developer</h3>
+            <h3 className="text-2xl font-bold text-coral mb-4">AI/ML Engineer &amp; Python Developer</h3>
             <div className="space-y-4 text-gray-600 text-lg leading-relaxed text-justify">
               <p>
-                I'm <strong className="text-gray-900">Rushikesh Patil</strong>, pursuing my B.Tech in Computer Science Engineering with an AI/ML specialization at Parul University. Through my coursework and projects, I have built a strong foundation in <strong className="text-gray-900">AI Agents, LLMs, LangChain, Generative AI, Python, Java, and Data Structures & Algorithms</strong>.
+                I'm <strong className="text-gray-900">Rushikesh Patil</strong>, a Computer Science and Engineering student specializing in <strong className="text-gray-900">Artificial Intelligence and Machine Learning</strong> at <strong className="text-gray-900">Parul University</strong>. I enjoy building practical AI-powered applications, intelligent agents, and Python-based solutions.
               </p>
               <p>
-                I bring hands-on experience in machine learning, full-stack development, and problem-solving through projects like <span className="text-gray-900 font-medium">Zoo Guide AI</span> and <span className="text-gray-900 font-medium">Traveloop</span>. I enjoy turning complex data into simple, useful products. 
+                My interests include <strong className="text-gray-900">Generative AI, LLMs, LangChain, machine learning, backend development</strong>, and solving real-world problems through software.
               </p>
               <p>
-                I look forward to contributing as an <strong className="text-gray-900">ML Project Developer</strong> or <strong className="text-gray-900">AI Systems Developer</strong>, creating intelligent solutions with real-world impact from day one. I'm currently at a CGPA of <strong className="text-gray-900">7.11</strong> and actively looking for opportunities to grow and learn.
+                I'm continuously improving my technical skills and looking for opportunities to contribute to meaningful AI/ML and software development projects.
               </p>
             </div>
           </div>
@@ -93,7 +93,7 @@ const About = () => {
                 </div>
                 <div className="flex py-2 border-b border-gray-200/50">
                   <span className="text-gray-500 font-medium w-1/3">CGPA</span>
-                  <span className="text-gray-800 font-medium w-2/3">7.11 / 10.0</span>
+                  <span className="text-gray-800 font-medium w-2/3">7.35 / 10.0</span>
                 </div>
                 <div className="flex py-2">
                   <span className="text-gray-500 font-medium w-1/3">Timeline</span>
